@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Center(
-          child: Image.asset('images/Uav-delivery.jpg'),
+          child: Image.asset('images/drone-03.jpg'),
         ),
       ),
     );
